@@ -3,7 +3,7 @@ A web application to visually explore World Development Indicators.
 
 [Web Application](https://joao-alegria.github.io/VI/src/html/) | [Demo Video](https://github.com/FilipePires98/WorldDev-VisualExploration/blob/master/Demo.mp4) | [Technical Report](https://github.com/FilipePires98/WorldDev-VisualExploration/blob/master/docs/report.pdf) | [Work Presentation](https://github.com/FilipePires98/WorldDev-VisualExploration/blob/master/docs/presentations/World-Development-Analysis-Application_2ndPresentation.pdf)
 
-<img src="https://github.com/FilipePires98/WorldDev-VisualExploration/blob/master/docs/img/screenshots/screenshot_connectedscatterplot.png" width="720px">
+<img src="https://github.com/FilipePires98/WorldDev-VisualExploration/blob/master/docs/img/screenshots/screenshot_map.png" width="720px">
 
 <img src="https://github.com/FilipePires98/WorldDev-VisualExploration/blob/master/docs/img/screenshots/screenshot_connectedscatterplot.png" width="720px">
 

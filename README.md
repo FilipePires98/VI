@@ -7,7 +7,7 @@ A web application to visually explore World Development Indicators.
 
 <img src="https://github.com/FilipePires98/WorldDev-VisualExploration/blob/master/docs/img/screenshots/screenshot_connectedscatterplot.png" width="720px">
 
-## Repository Structure:
+## Repository Structure
 
 /dataset    - World Development Indicators dataset taken from [Kaggle](https://www.kaggle.com/worldbank/world-development-indicators)
 
